@@ -1,0 +1,28 @@
+#a2{
+color: tomato;
+font: size 100px;;
+}
+#a3{
+    font-style: italic;
+    font-size:large
+}
+#a4{
+    font-style: italic;
+    font-size: large;
+}
+#a5{
+    font-style: italic;
+    font-size: large;
+}
+#a6{
+    font-weight: bold;
+}
+img{
+    margin-left: 600px;
+}
+div{
+    margin-left: 250px;
+}
+#a10{ 
+    margin-left: 250;
+}
